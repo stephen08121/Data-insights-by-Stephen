@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stephen08121/Data-Insights-by-Stephen/blob/main/Final_Analysis_on_COVID-19.ipynb)
+
 # 📦 COVID-19 Trade Impact Analysis
 
 This project analyzes the impact of COVID-19 on global trade using interactive data visualizations, forecasting, clustering, and recovery insights. Built with Jupyter Notebook, it leverages pandas, matplotlib, seaborn, ipywidgets, and scikit-learn for a comprehensive and interactive portfolio-ready dashboard.
